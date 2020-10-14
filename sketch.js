@@ -22,6 +22,7 @@ const a = mouseX+mouseY;
       stroke(col)
       rect(10,20,20,20);
       pop();
+      
     }
   }
 
